@@ -7,8 +7,19 @@
 
 
 <url>
-  <loc>http://heinhtetaung.com/</loc>
-  <lastmod>2019-02-10T12:00:13+00:00</lastmod>
+  <loc>https://heinhtetaung.com/</loc>
+  <lastmod>2019-02-16T03:12:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://heinhtetaung.com/share/</loc>
+  <lastmod>2019-02-16T03:12:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://heinhtetaung.com/portfolio/</loc>
+  <lastmod>2019-02-16T03:12:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
