@@ -1,2 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://hha.netlify.com/* https://heinhtetaung.com/:splat 301!
+
+# Custom 404 page
+/404.html 404
